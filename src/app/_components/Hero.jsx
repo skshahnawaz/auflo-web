@@ -11,7 +11,7 @@ const Hero = () => {
         </div>
         {/* Main Heading */}
         <h1 className="text-4xl md:text-6xl font-bold pb-6">
-        World`&apos;`s 1st  <br />
+        World&apos;s 1st  <br />
         Multimodal GenAI platform
         </h1>
         {/* Button */}
