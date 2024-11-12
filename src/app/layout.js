@@ -13,8 +13,29 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Auflo",
-  description: "Your coding assistant",
+  title: "Auflo - Testing at the Speed of Thought",
+  description: "Auflo is revolutionizing software testing by introducing the World's First Agentic AI system that autonomously handles the complete testing lifecycle. Unlike traditional automation tools or standalone AI solutions, Auflo's agents work collaboratively to understand, create, and execute tests while continuously learning and adapting.",
+  // Application name
+  applicationName: "Auflo",
+  authors: [
+    { name: "Auflo Team" },
+  ],
+  // Keywords for search engines
+  keywords: [
+    "AI Testing",
+    "Software Testing",
+    "Test Automation",
+    "Agentic AI",
+    "QA Automation",
+    "Automated Testing",
+    "DevOps",
+    "Software Development",
+    "Quality Assurance",
+    "Testing Platform",
+    "AI Testing Platform",
+    "Test Case Generation",
+    "Continuous Testing"
+  ],
 };
 
 export default function RootLayout({ children }) {
