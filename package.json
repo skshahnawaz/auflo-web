@@ -1,6 +1,6 @@
 {
-  "name": "auflow_v1",
-  "version": "0.1.0",
+  "name": "auflo",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

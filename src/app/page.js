@@ -9,12 +9,12 @@ import WaitList from "./_components/WaitList";
 export default function Home() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Hero />
-      <LogoMarquee />
-      <FeatureGrid />
-      <WaitList />
-      <Footer />
+      {/* <LogoMarquee /> */}
+      {/* <FeatureGrid /> */}
+      {/* <WaitList /> */}
+      {/* <Footer /> */}
     </>
   );
 }
