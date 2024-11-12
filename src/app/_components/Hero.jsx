@@ -18,7 +18,7 @@ const Hero = () => {
           Join the Future of Software Testing <br></br>with Auflo
         </h1>
         <p className="max-w-[500px] mx-auto px-4 pb-9 text-neutral-300 text-2xl">
-        Be among the first to experience Auflo - the world's first agentic AI testing platform that transforms weeks of testing into minutes.
+        Be among the first to experience Auflo - the World&apos;s first agentic AI testing platform that transforms weeks of testing into minutes.
         </p>
         {/* Button */}
         <div className="mt-6 pb-10">
