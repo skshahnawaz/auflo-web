@@ -32,7 +32,7 @@ const Hero = () => {
 
         <div className="mt-6">
           <a
-            href="https://youtu.be/p1wYMd9RCcA" target="_blank"
+            href="https://youtu.be/j8KZBW9BJLk" target="_blank"
             className="bg-black text-white px-6 py-3 rounded-md shadow-lg hover:bg-white hover:text-black transition font-medium"
           >
             Watch Demo &rarr;
