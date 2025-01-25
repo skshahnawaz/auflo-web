@@ -9,16 +9,16 @@ const Hero = () => {
       <div className="text-center space-y-6">
         {/* Announcement */}
         <div className="bg-zinc-900 text-sm md:text-base px-4 py-2 rounded-3xl inline-block">
-          Testing in progress...
+          Building the future of AI...
         </div>
         {/* Main Heading */}
         <h1 className="text-4xl md:text-6xl font-bold pb-6">
           {/* World&apos;s 1st <br />
           Multimodal GenAI platform */}
-          Join the Future of Software Testing <br></br>with Auflo
+          Aufloverse<br></br>Where Enterprises Build AI Agents
         </h1>
-        <p className="max-w-[500px] mx-auto px-4 pb-9 text-neutral-300 text-2xl">
-        Be among the first to experience Auflo - the World&apos;s first agentic AI testing platform that transforms weeks of testing into minutes.
+        <p className="max-w-[500px] mx-auto px-4 pb-9 text-neutral-300 text-xl">
+        Experience the World&apos;s first enterprise-grade AI agent development platform that transforms complex agent creation into seamless deployment.
         </p>
         {/* Button */}
         <div className="mt-6 pb-10">
@@ -30,14 +30,7 @@ const Hero = () => {
           </a>
         </div>
 
-        <div className="mt-6">
-          <a
-            href="https://youtu.be/j8KZBW9BJLk" target="_blank"
-            className="bg-black text-white px-6 py-3 rounded-md shadow-lg hover:bg-white hover:text-black transition font-medium"
-          >
-            Watch Demo &rarr;
-          </a>
-        </div>
+        
       </div>
     </div>
     
